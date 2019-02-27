@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+
+###
+# Nathaniel Watson
+# nathankw@stanford.edu
+# 2019-02-25
+###
 import encode_utils.connection as euc
 conn = euc.Connection("prod")
 
